@@ -19,5 +19,8 @@
 😻 I am a huge cat lover <br/>
 ✉️ I am avaliable at *faizan-666@outlook.com* <br/>
 
-
-## Things Near to my Heart ❤️
+## Goals for 2021 💪
+- [x] Learn Ionic
+- [ ] Learn more Dev-ops
+- [ ] Finish my BSCS degree
+- [ ] Get a pet
