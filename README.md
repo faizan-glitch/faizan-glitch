@@ -18,3 +18,6 @@
 👯 I am looking for people to collaborate on some hobby projects <br/>
 😻 I am a huge cat lover <br/>
 ✉️ I am avaliable at *faizan-666@outlook.com* <br/>
+
+
+## Things Near to my Heart ❤️
