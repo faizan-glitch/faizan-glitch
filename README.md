@@ -9,18 +9,16 @@
   - Client SDK + Admin SDK
 + Redis
 + Angular
++ Vue
 + Ionic
 + Electron
 
 ## Get to know me 🤝
-👨‍💻 I am currently working on a Mobile App in Ionic <br/>
-📖 I am currently learning VueJS <br/>
+
 👯 I am looking for people to collaborate on some hobby projects <br/>
 😻 I am a huge cat lover <br/>
 ✉️ I am avaliable at *faizan-666@outlook.com* <br/>
 
 ## Goals for 2021 💪
 - [x] Learn Ionic
-- [ ] Learn more Dev-ops
-- [ ] Finish my BSCS degree
-- [ ] Get a pet
+
